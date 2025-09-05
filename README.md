@@ -12,7 +12,8 @@
 
 ### 1️⃣ 舆情监测与行业洞察
 
-![功能截图](https://gitee.com/gcys2025/SmartSentinel/raw/master/1.png)
+![功能截图](https://raw.githubusercontent.com/gcys2025/SmartSentinel/refs/heads/main/1.png)
+
 - **24小时不间断监控**，日均采集数据超过3亿条
 - 快速识别关键词热点舆情及行业趋势
 - 多渠道数据集成，智能化舆情推荐
@@ -22,7 +23,7 @@
 
 ### 2️⃣ 精准事件分析
 
-![功能截图](https://gitee.com/gcys2025/SmartSentinel/raw/master/2.png)
+![功能截图](https://raw.githubusercontent.com/gcys2025/SmartSentinel/refs/heads/main/2.png)
 
 - 基于 **NLP技术** 的情感分析
 - 量化“支持-中立-反对”立场分布
@@ -33,7 +34,7 @@
 
 ### 3️⃣ 智能预警与提醒
 
-![功能截图](https://gitee.com/gcys2025/SmartSentinel/raw/master/3.png)
+![功能截图](https://raw.githubusercontent.com/gcys2025/SmartSentinel/refs/heads/main/3.png)
 
 - AI解析文本、图片、视频，结合OCR与场景元素分析
 - 负面舆情识别准确率高达 **95%**
@@ -44,7 +45,7 @@
 
 ### 4️⃣ 事件溯源与控制
 
-![功能截图](https://gitee.com/gcys2025/SmartSentinel/raw/master/4.png)
+![功能截图](https://raw.githubusercontent.com/gcys2025/SmartSentinel/refs/heads/main/4.png)
 
 - 自动生成 **事件传播路径图**
 - 全链条追溯舆情从核心媒体到网民扩散
@@ -55,7 +56,7 @@
 
 ### 5️⃣ 深度舆情分析报告
 
-![功能截图](https://gitee.com/gcys2025/SmartSentinel/raw/master/5.png)
+![功能截图](https://raw.githubusercontent.com/gcys2025/SmartSentinel/refs/heads/main/5.png)
 
 - **智能报告引擎** 自动生成分析报告
 - 提取关键词、统计图表、核心观点
@@ -82,7 +83,7 @@
 
 如需了解更多信息，或获取我们已开发完成的产品，可扫描下方微信二维码联系：
 
-<img src="https://gitee.com/gcys2025/SmartSentinel/raw/master/6.png" alt="微信二维码" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/gcys2025/SmartSentinel/refs/heads/main/6.png" alt="微信二维码" style="zoom:50%;" />
 
 ------
 
