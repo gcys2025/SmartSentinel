@@ -12,7 +12,7 @@
 
 ### 1️⃣ 舆情监测与行业洞察
 
-![功能截图](https://gitee.com/gcys2025/SmartSentinel/raw/master/1.png)
+![功能截图](https://gitee.com/gcys2025/SmartSentinel/raw/master/1.png  alt="1" style="zoom:100%;")
 
 - **24小时不间断监控**，日均采集数据超过3亿条
 - 快速识别关键词热点舆情及行业趋势
